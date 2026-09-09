@@ -22,6 +22,9 @@ sudo apt update
 sudo apt install -y python3-picamera2
 ```
 
+```
+http://192.168.68.63:8080/
+```
 
 ## Service 
 
