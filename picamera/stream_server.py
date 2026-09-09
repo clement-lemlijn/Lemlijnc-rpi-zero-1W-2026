@@ -11,6 +11,7 @@ from picamera2.outputs import FileOutput
 PAGE = """\
 <html>
 <head>
+<meta charset="UTF-8">
 <title>Pi Zero Cam</title>
 </head>
 <body>
